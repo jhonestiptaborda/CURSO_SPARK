@@ -1,0 +1,4 @@
+customer_id,first_name,credit_score,created_at
+CUS001,Ana,720,2026-07-25
+CUS002,Carlos,NO_DISPONIBLE,2026-07-26
+CUS003,Laura,680,2026-99-99
